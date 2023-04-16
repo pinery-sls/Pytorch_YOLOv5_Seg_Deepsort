@@ -37,11 +37,11 @@ Segmentation weights
 
 |Model |
 | ------ |
-|[YOLOv5n-seg][https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5n-seg.pt] |
-|[YOLOv5s-seg][https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s-seg.pt] |
-|[YOLOv5m-segl][https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5m-seg.pt] |
-|[YOLOv5l-seg][https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5l-seg.pt] |
-|[YOLOv5x-seg][https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5x-seg.pt] |
+|[YOLOv5n-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5n-seg.pt)|
+|[YOLOv5s-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s-seg.pt)|
+|[YOLOv5m-segl](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5m-seg.pt) |
+|[YOLOv5l-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5l-seg.pt) |
+|[YOLOv5x-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5x-seg.pt) |
 
 ## Tracking sources
 
