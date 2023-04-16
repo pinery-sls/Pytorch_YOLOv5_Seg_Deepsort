@@ -16,8 +16,6 @@ Download [ckpt.t7](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb
 ### YOLOv5
 Downlod Yolov5 model and copy to yolov5/weights/
 
-[assets]: https://github.com/ultralytics/yolov5/releases
-
 Detection weights
 
 |Model |
@@ -39,7 +37,7 @@ Segmentation weights
 | ------ |
 |[YOLOv5n-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5n-seg.pt)|
 |[YOLOv5s-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s-seg.pt)|
-|[YOLOv5m-segl](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5m-seg.pt) |
+|[YOLOv5m-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5m-seg.pt) |
 |[YOLOv5l-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5l-seg.pt) |
 |[YOLOv5x-seg](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5x-seg.pt) |
 
